@@ -1,0 +1,10 @@
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\bin\Debug\CountryDataForGis.exe.config
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\bin\Debug\CountryDataForGis.exe
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\bin\Debug\CountryDataForGis.pdb
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\obj\Debug\CountryDataForGis.csprojAssemblyReference.cache
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\obj\Debug\CountryDataForGis.csproj.CoreCompileInputs.cache
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\obj\Debug\CountryDataForGis.exe
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\obj\Debug\CountryDataForGis.pdb
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\bin\Debug\Newtonsoft.Json.dll
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\bin\Debug\Newtonsoft.Json.xml
+D:\MyData\Repos\CountryDataForGis\CountryDataForGis\obj\Debug\CountryDataForGis.csproj.CopyComplete

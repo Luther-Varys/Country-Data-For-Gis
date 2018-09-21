@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -8615,6 +8618,7 @@
     <None Include="CountryData\FromGitHub\umpirsky\tld-list\en\tld.json" />
     <None Include="CountryData\FromGitHub\umpirsky\tld-list\en\tld.xliff" />
     <None Include="CountryData\FromGitHub\umpirsky\tld-list\en\tld.yaml" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -24581,6 +24585,7 @@
     <Content Include="CountryData\FromGitHub\umpirsky\tld-list\en\tld.sqlite.sql" />
     <Content Include="CountryData\FromGitHub\umpirsky\tld-list\en\tld.txt" />
     <Content Include="CountryData\FromGitHub\umpirsky\tld-list\en\tld.xml" />
+    <Content Include="readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
