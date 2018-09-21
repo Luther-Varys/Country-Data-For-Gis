@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryDataForGis", "CountryDataForGis\CountryDataForGis.csproj", "{5369ECA2-0B6D-4AE6-A9D9-C7F10C47594B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryDataForGis.Test", "CountryDataForGis.Test\CountryDataForGis.Test.csproj", "{54E50D0C-5766-4A23-9344-0DBC5FFB4A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5369ECA2-0B6D-4AE6-A9D9-C7F10C47594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5369ECA2-0B6D-4AE6-A9D9-C7F10C47594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5369ECA2-0B6D-4AE6-A9D9-C7F10C47594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5369ECA2-0B6D-4AE6-A9D9-C7F10C47594B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E50D0C-5766-4A23-9344-0DBC5FFB4A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E50D0C-5766-4A23-9344-0DBC5FFB4A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E50D0C-5766-4A23-9344-0DBC5FFB4A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E50D0C-5766-4A23-9344-0DBC5FFB4A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB57F3C-6615-42C4-8FD7-A5D58BD34B72}
+	EndGlobalSection
+EndGlobal
