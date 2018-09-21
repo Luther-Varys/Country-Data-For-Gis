@@ -117,6 +117,10 @@ namespace CountryDataForGis
 
         private string[] _SplitCSV(string input)
         {
+            //Check this stackoverflow post on how to parse csv file when escaping commas in a quotation:
+            //--->   dat,"ok,hello,yes",end, end2
+            //https://stackoverflow.com/questions/3776458/split-a-comma-separated-string-with-both-quoted-and-unquoted-strings
+
             Regex csvSplit = new Regex("(?:^|,)(\"(?:[^\"])*\"|[^,]*)", RegexOptions.Compiled);
             List<string> list = new List<string>();
             string curr = null;
