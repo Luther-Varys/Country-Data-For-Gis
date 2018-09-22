@@ -1,0 +1,61 @@
+
+public interface DatasetsCountryCode
+{
+
+    string Fifa { get; set; }
+    string Dial { get; set; }
+    string Iso3166_1_alpha_3 { get; set; }
+    string Marc { get; set; }
+    string Is_independent { get; set; }
+    string Iso3166_1_numeric { get; set; }
+    string Gaul { get; set; }
+    string Fips { get; set; }
+    string Wmo { get; set; }
+    string Iso3166_1_alpha_2 { get; set; }
+    string Itu { get; set; }
+    string Ioc { get; set; }
+    string Ds { get; set; }
+    string Unterm_spanish_formal { get; set; }
+    string Global_code { get; set; }
+    string Intermediate_region_code { get; set; }
+    string Official_name_fr { get; set; }
+    string Unterm_french_short { get; set; }
+    string Iso4217_currency_name { get; set; }
+    string Developed___developing_countries { get; set; }
+    string Unterm_russian_formal { get; set; }
+    string Unterm_english_short { get; set; }
+    string Iso4217_currency_alphabetic_code { get; set; }
+    string Small_island_developing_states__sids_ { get; set; }
+    string Unterm_spanish_short { get; set; }
+    string Iso4217_currency_numeric_code { get; set; }
+    string Unterm_chinese_formal { get; set; }
+    string Unterm_french_formal { get; set; }
+    string Unterm_russian_short { get; set; }
+    string M49 { get; set; }
+    string Sub_region_code { get; set; }
+    string Region_code { get; set; }
+    string Official_name_ar { get; set; }
+    string Iso4217_currency_minor_unit { get; set; }
+    string Unterm_arabic_formal { get; set; }
+    string Unterm_chinese_short { get; set; }
+    string Land_locked_developing_countries__lldc_ { get; set; }
+    string Intermediate_region_name { get; set; }
+    string Official_name_es { get; set; }
+    string Unterm_english_formal { get; set; }
+    string Official_name_cn { get; set; }
+    string Official_name_en { get; set; }
+    string Iso4217_currency_country_name { get; set; }
+    string Least_developed_countries__ldc_ { get; set; }
+    string Region_name { get; set; }
+    string Unterm_arabic_short { get; set; }
+    string Sub_region_name { get; set; }
+    string Official_name_ru { get; set; }
+    string Global_name { get; set; }
+    string Capital { get; set; }
+    string Continent { get; set; }
+    string Tld { get; set; }
+    string Languages { get; set; }
+    string Geoname_id { get; set; }
+    string Cldr_display_name { get; set; }
+    string Edgar { get; set; }
+}
