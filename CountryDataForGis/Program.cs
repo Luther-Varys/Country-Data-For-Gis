@@ -11,10 +11,10 @@ namespace CountryDataForGis
 
         static void Main(string[] args)
         {
-            //This is a Basi example on how to initialize the 2 main classes:
+            //This is a basic example on how to initialize the 2 main classes:
             //  -DataServiceForCsvFile (used the read data from csv files)
-            //  -CodeGenerator (used to generate autogenrate some code classes based on csv files key values and headers)
-            //**** for more specific details CHECK THE TEST PROJECT ****
+            //  -CodeGenerator (used to autogenrate some code (interfaces, classes,...) based on csv files key-values and headers)
+            //**** for more specific and detailed examples CHECK THE TEST PROJECT ****
 
 
 
