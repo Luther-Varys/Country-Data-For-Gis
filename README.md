@@ -1,4 +1,4 @@
-﻿# Country-Data-For-Gis
+﻿# Country Data For Gis
  
 This is a data collection of country, language, currency and more... 
 This data can help with GIS map data. 
